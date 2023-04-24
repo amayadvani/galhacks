@@ -5,7 +5,7 @@
   <link rel="stylesheet" href="snake.css">
   <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
 </head>
-<img src="images/snakegame.png" alt="26 high score">
+<img width="100" height="200" src="images/snakegame.png" alt="26 high score">
 <body>
 <p id="p1">SCORE:</p>
 <p id="score"></p>
